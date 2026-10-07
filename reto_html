@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>reto de html </title>
+</head>
+<body>
+    <table border="2">
+<tr>
+<td> fecha </td>
+<td>equipo local </td>
+<td>equipo visitante</td>
+<td>resultado </td>
+<td>estadio </td>
+</tr>
+<tr>
+    <td>03/05/27</td>
+    <td>llaneros</td>
+    <td>nacional </td>
+    <td>3-0</td>
+    <td>villa de tapitas</td>
+</tr>
+<tr>
+    <td>03/05/27</td>
+    <td>bucaramnaga </td>
+    <td>millonarios </td>
+    <td>7-3</td>
+    <td>villa de tapitas</td>
+</tr>
+<tr>
+    <td>03/05/27</td>
+    <td>america</td>
+    <td>jumior </td>
+    <td>6-2</td>
+    <td>villa de tapitas</td>
+</tr>
+<hr>
+    </table>
+<table>
+ <h2>TOP 5 DE GOLEADORES </h2>   
+</table>
+<OL type="1" start="1">
+<li>oscar fenando - 22 goles 8 asistencias </li>
+<li>mario rueda - 18 goles 6 asistencias </li>
+<li>edgar lopex - 13 goles 8 asistencias</li>
+<li>mario bros - 9 goles 2 asistencias</li>
+<li>jacky jimenez - 5 goles 1 asistencia </li>
+</OL>
+<table>
+    <h2>
+        lista no ordenada de ingriente para una pizza 
+    </h2>
+    <ul>
+<li>maza</li>
+<li>salsa</li>
+<li>tomate</li>
+    </ul>
+</table>
+</body>
+</html>
